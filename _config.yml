@@ -111,6 +111,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/danielrdowns"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/danielrdowns/"
       
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
