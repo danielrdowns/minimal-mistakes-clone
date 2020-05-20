@@ -28,7 +28,7 @@ main:
     url: https://google.com
     
 docs:
-  - title: Pages:
+  - title: Pages
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
