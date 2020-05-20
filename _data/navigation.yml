@@ -11,7 +11,7 @@
   # - title: "Sitemap"
   #   url: /sitemap/
   
-  main:
+main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
   - title: "Posts"
@@ -27,7 +27,7 @@
   - title: "External Link"
     url: https://google.com
     
-    docs:
+docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
