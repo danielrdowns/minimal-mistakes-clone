@@ -2,8 +2,10 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Structure"
-    url: docs/02-structure.md/
+  - <a href="02-structure.md" onclick="window.open('Structure', '_self');">
+
+  Example
+  </a>
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
