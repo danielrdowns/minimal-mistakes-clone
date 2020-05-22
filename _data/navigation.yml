@@ -13,7 +13,7 @@
   
 main:
   - title: "Quick-Start Guide"
-    url: https://danielrdowns.github.io/danielrdowns/docs/quick-start-guide/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
