@@ -12,6 +12,7 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 To do List:
 
+- Change author title
 - Reorder social media links
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Create About page and Posts page
