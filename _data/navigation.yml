@@ -2,8 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://danielrdowns.github.io/danielrdowns.github.io/about/
+  - title: "Structure"
+    url: https://danielrdowns.github.io/danielrdowns.github.io/docs/structure/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
