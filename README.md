@@ -13,12 +13,12 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 To do List:
 
 - <s>Change author title </s>
-- Reorder social media links
+- <s> Reorder social media links </s>
+- Add Introduction blurb
 - Add "History" page w/ versions, (ex. 1.0 - Site Created)
 - Create About page and Posts page
 - Migrate Medium articles from Medium to the website
 - Add Dark Mode
 - Add CV to website
-- Add Introduction blurb
 
 
