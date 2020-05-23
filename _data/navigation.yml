@@ -2,12 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - <a href="02-structure.md" onclick="window.open('02-structure.md', '_self');">
-
-  Structure
-  </a>
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Page"
+    url: /sample-page/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
